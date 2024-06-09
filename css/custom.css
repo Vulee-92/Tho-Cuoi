@@ -1,4 +1,8 @@
-/* your styles go here *//* SlideshowContenter */
+body {
+  font-family: "Pangolin", cursive;
+  font-optical-sizing: auto;
+  font-style: normal;
+}/* your styles go here *//* SlideshowContenter */
 .container {
 	width: 80%;
 }
